@@ -3,8 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
-// import 'package:resizable_stack_image/src/resizable_stack_image.dart';
-import 'package:resize_stack_image_example/resizable_stack_image.dart';
+import 'package:resizable_stack_image/src/resizable_stack_image.dart';
 
 void main() {
   runApp(const MyApp());

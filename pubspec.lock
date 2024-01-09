@@ -264,6 +264,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.8"
+  resizable_stack_image:
+    dependency: "direct main"
+    description:
+      name: resizable_stack_image
+      sha256: "9988a399812eb80346cf0b2f3d499f8673b388d691fb658e8851fc5aad370e40"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   sky_engine:
     dependency: transitive
     description: flutter
